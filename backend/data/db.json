@@ -1,0 +1,120 @@
+{
+  "users": [
+    {
+      "id": "95396612-6f88-4126-a238-933dbdf9e4f6",
+      "fullName": "Assiata Said Hassane",
+      "username": "Aaciah",
+      "passwordHash": "$2b$10$R9U0phSzWsQwT9JAjrNmUOl32T6PdoNdjRMS.hERPHlMDTe2Lq3fq",
+      "blockedUserIds": [],
+      "createdAt": "2026-04-08T13:27:38.859Z"
+    },
+    {
+      "id": "eb583538-8853-4b4e-8e80-658f5fbfdf8c",
+      "fullName": "Aminata Said Hassane",
+      "username": "Aminah",
+      "passwordHash": "$2b$10$/ABV9yJcAWii9UMIlwMzieoCbo7NF8VrP8P9jgb00L6IzSMg10o/O",
+      "blockedUserIds": [],
+      "createdAt": "2026-04-08T13:32:21.362Z"
+    },
+    {
+      "id": "bf0f38fb-a6c4-4444-a182-b87ae4d11858",
+      "fullName": "Amatoul-anziz Said Hassane",
+      "username": "Amatoulanziz",
+      "passwordHash": "$2b$10$DlXoDHD8LoEmLsOJFpfgLetEnGimNauxtD5FHp2JbIRgyImmql8/m",
+      "blockedUserIds": [],
+      "createdAt": "2026-04-08T14:03:29.183Z"
+    },
+    {
+      "id": "f8b9f4d0-c456-4936-8b4b-488d1f5c4f7e",
+      "fullName": "Utilisateur Test",
+      "username": "testuser1775773000",
+      "passwordHash": "$2b$10$bP6CFj/AQLid.3DFFKHHlOTArHBqpbrSh32ERC3Qxfuxdi6AI5Md.",
+      "blockedUserIds": [],
+      "createdAt": "2026-04-09T22:16:40.305Z"
+    }
+  ],
+  "friendRequests": [
+    {
+      "id": "3143ead7-2ccb-40b4-bc8e-b200b7ae0020",
+      "requesterId": "eb583538-8853-4b4e-8e80-658f5fbfdf8c",
+      "recipientId": "95396612-6f88-4126-a238-933dbdf9e4f6",
+      "status": "accepted",
+      "createdAt": "2026-04-08T13:33:45.940Z",
+      "acceptedAt": "2026-04-08T13:34:34.643Z"
+    },
+    {
+      "id": "ea76b2c8-043b-4dde-b98e-b1a9c8eef6ae",
+      "requesterId": "bf0f38fb-a6c4-4444-a182-b87ae4d11858",
+      "recipientId": "95396612-6f88-4126-a238-933dbdf9e4f6",
+      "status": "accepted",
+      "createdAt": "2026-04-08T14:03:47.278Z",
+      "acceptedAt": "2026-04-08T14:07:02.714Z"
+    },
+    {
+      "id": "a4366d25-ceb9-4601-a446-0ee604110162",
+      "requesterId": "bf0f38fb-a6c4-4444-a182-b87ae4d11858",
+      "recipientId": "eb583538-8853-4b4e-8e80-658f5fbfdf8c",
+      "status": "accepted",
+      "createdAt": "2026-04-08T14:04:06.312Z",
+      "acceptedAt": "2026-04-08T16:36:56.425Z"
+    }
+  ],
+  "articles": [
+    {
+      "id": "3b219d17-7b13-4114-bb84-cd1e84f13852",
+      "authorId": "eb583538-8853-4b4e-8e80-658f5fbfdf8c",
+      "title": "Mon Voyage a DAKAR",
+      "content": "Je me disais bien que voyager  c'est aussi croiser des regards qui ne disent pas un mot mais en contiennent énormément.\nC'est  emprunter l'œil du coeur quand tu veux déceler ce qui loge au fond des yeux.\n\nOn s'aperçoit qu'ici encore, il y en a pour qui la vie n'est qu'une succession de naufrages...Que ces contrées ne sont pas aussi loin que nous le pensons.  \n\nOn se rend compte que la vie, le silence, l'ombre, l'absence, le sable,  l'océan, la végétation et même l'argile parlent d'eux-mêmes...\n\nCe qui était censé être une contemplation du monde devient une contemplation de soi. Une véritable plongée dans l'âme et dans  ses composants...\n\nEt cette pluie torrentielle qui noyait tes veines se fait si petite...",
+      "isPublic": true,
+      "allowComments": true,
+      "createdAt": "2026-04-08T13:54:34.782Z",
+      "updatedAt": "2026-04-08T13:54:34.783Z"
+    },
+    {
+      "id": "45c99124-1ac9-4328-9152-f98d2b513e48",
+      "authorId": "bf0f38fb-a6c4-4444-a182-b87ae4d11858",
+      "title": "Une Mère",
+      "content": "Une mère, la mère. \nElle lit dans nos yeux ce que personne ne voit et ne comprend,... qq soient nos âges. \nElle voit nos larmes au delà de nos sourires. \nElle nous connait plus que nous nous connaissons nous même. \nElle nous porte, nous supporte, nous accepte, nous couve, nous chérit... \n#Q_Allah_te_protège_MAMAN 💓💖💞",
+      "isPublic": true,
+      "allowComments": true,
+      "createdAt": "2026-04-08T14:06:04.020Z",
+      "updatedAt": "2026-04-09T22:29:53.345Z",
+      "comments": [
+        {
+          "id": "19f81a71-b694-4955-ba42-5c1ae8ac6546",
+          "authorId": "95396612-6f88-4126-a238-933dbdf9e4f6",
+          "content": "Amine",
+          "createdAt": "2026-04-09T22:29:53.345Z"
+        }
+      ]
+    },
+    {
+      "id": "71456fd3-e56a-47d9-b16c-4f23d85c3668",
+      "authorId": "eb583538-8853-4b4e-8e80-658f5fbfdf8c",
+      "title": "La souffrance ne se voit pas toujours.",
+      "content": "Certaines personnes cachent sous leurs sourires des tonnes de brisures et de lassitudes. Personne ne sait mieux leur débâcle, leurs naufrages, les tonnerres qu'ils ont essuyés, qu’eux. \n\nTant de cauchemars se sédimentent au fond de  leurs yeux et les anéantissent de l'intérieur...\n\nAlors, laissez-les stagner. Avancer comme elles peuvent... Laissez les danser à leur rythme. Tomber et se relever...Aimer, se détacher...\n\nElles  savent que la vie est une succession d’éclipses et d’éclosions.\n\nLaissez-les tranquilles",
+      "isPublic": false,
+      "allowComments": true,
+      "createdAt": "2026-04-08T17:31:59.125Z",
+      "updatedAt": "2026-04-08T17:33:17.408Z"
+    },
+    {
+      "id": "29653978-bb23-477e-8808-1f7d216367fa",
+      "authorId": "f8b9f4d0-c456-4936-8b4b-488d1f5c4f7e",
+      "title": "Article test",
+      "content": "Contenu de test",
+      "isPublic": true,
+      "allowComments": true,
+      "comments": [
+        {
+          "id": "e2e7c95f-6852-4766-aa35-14496898d6e4",
+          "authorId": "f8b9f4d0-c456-4936-8b4b-488d1f5c4f7e",
+          "content": "Premier commentaire de test",
+          "createdAt": "2026-04-09T22:16:40.420Z"
+        }
+      ],
+      "createdAt": "2026-04-09T22:16:40.386Z",
+      "updatedAt": "2026-04-09T22:16:40.420Z"
+    }
+  ]
+}
